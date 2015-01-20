@@ -1,5 +1,7 @@
 # diy_arduino
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prussiap/diy_arduino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DIY Arduinos Atmega328p:
 1. Existing most recent is the V4. I added spacing. I have been considering making the voltage regulator a shield but did not implement.
 1a. I would like to replace the LED to be a neopixel: https://github.com/prussiap/fritzing_projects/blob/master/ws812_circuits.fzz but use normal resisotr and caps instead of SMT
